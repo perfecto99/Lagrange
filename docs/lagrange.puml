@@ -1,0 +1,9 @@
+@startuml lagrange
+
+class Interpolation 
+{
+    +void PG();
+    +void SG();
+    +void TG();
+}
+@enduml
